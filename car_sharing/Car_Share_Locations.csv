@@ -1,0 +1,84 @@
+﻿X,Y,OBJECTID,X,Y,WARD,SPACENUM,ZIPCARID,LOCATION,LANDMARK,ADDRESS,STATUS,VENDOR
+-76.989198789853759,38.866149329201157,1,400937.58112678,133146.80851297,8,81,0881MLK,On V St b/t MLK Jr Ave & Shannon Pl,"In MLK professional development; b/t 2041 and 2101 MLK",2050 - 2124 BLOCK OF MARTIN LUTHER KING JR AVENUE SE,1,Zipcar
+-76.989523425542444,38.865427124387217,2,400909.41680675,133066.6351609,8,82,0882MLK,On V St b/t MLK Jr Ave & Shannon Pl,In MLK professional development b/t 2041 and 2101 MLK Jr Ave,2050 - 2124 BLOCK OF MARTIN LUTHER KING JR AVENUE SE,1,Hertz
+-77.007310687673169,38.826070190569787,3,399365.38348953,128697.71465585,8,83,0883ELMI,"On Elmira St, at S. Capitol St",Across from Crescent Park rental office,1 Elmira Street SE,1,Zipcar
+-77.006878685708188,38.826058374077633,4,399402.89577364,128696.40002084,8,84,0884ELMI,On Elmira St at S. Capitol St,Across Crescent Park rental office,1/2Elmira Street SE,1,Hertz
+-76.985509785711926,38.879981754593572,5,401257.48767143,134682.35539975,6,59,065914TH,On 14th St SE at Potomac Ave,By Potomac Yard Metro,902 14th Street SE,1,Hertz
+-76.985509738693324,38.879925970682081,6,401257.49275032,134676.16291101,6,60,066014TH,On 14th St SE at Potomac Ave,By Potomac Yard Metro,904 14th Street SE,1,Hertz
+-76.995916279026417,38.883756028326651,7,400354.51635176,135101.23675817,6,63,0663DST,On D St at 8 St SE ,"Across from Long & Foster Realtors, 721 D St SE",720 D Street SE,1,Zipcar
+-76.999490166362335,38.886053822656081,8,400044.43161394,135356.30179502,6,64,0664NCAR,On North Carolina Ave at 6th St SE (south side),"On triangle; near Pennsylvania Ave",End of 500 block of North Carolina Avenue SE,1,Zipcar
+-77.009216086478105,38.897348238232709,9,399200.72957738,136610.11061242,6,65,0665FST,"On F St NW, at N. Capitol St",Across from Dubliner Restaurant 4 F St NW,5 F Street NW,1,Hertz
+-77.009148420666008,38.89734837079574,10,399206.59937755,136610.12472925,6,66,0666FST,On F St NW at N. Capitol St,Across from Dubliner Restaurant 4 F St NW,3 F Street NW,1,Hertz
+-77.018979056115725,38.879290485190076,11,398353.40378038,134606.10693033,6,67,0667ST,On I St SW b/t 5th St and 6th St,Near Southeastern University & Waterside Mall,End of 500 block of I Street SW,1,Zipcar
+-77.018915494685913,38.879294245246783,12,398358.91900438,134606.10693033,6,68,0680IST,On I St SW b/t 5th St and 6th St,Near Southeastern University & Waterside Mall,End of 500 Block of I Street SW,1,Zipcar
+-77.020682849289642,38.88666694036251,13,398205.75279624,135424.56580309,6,71,0671MARY,On Maryland Ave SW just east of 7th St,Near LEnfant Plaza Metro,600-699 Block of Maryland Avenue SW,1,Zipcar
+-77.02093209869949,38.886603823207452,14,398184.12633222,135417.56425108,6,72,0672MARY,On Maryland Ave SW just east of 7th St,Near LEnfant Plaza Metro, 600-699 Block of Maryland Avenue SW,1,Zipcar
+-76.99617730240206,38.884290853757015,15,400331.86654844,135160.60549618,6,73,06737TH,On 7th St near South Carolina Ave,Across SE branch of public library,402 7th Street SE,1,Hertz
+-76.990242447324675,38.899640833619017,16,400846.61001469,136864.6118109,6,74,067412TH,On 700 block of 12th St NE,"Near intersection with H St; at Auto Zone",Adjacent to 727 12th Street NE,1,Hertz
+-76.94837795570534,38.893135753825788,17,404469.41373006,136143.71733175,7,75,0775DIX,On south side of Dix St NE,"Across from 3915c Dix St; near Safeway and intersection of Minnesota Ave & Benning Rd",Adjacent to 3915c Dix Street NE,1,Hertz
+-76.948482932922431,38.893178616400952,18,404469.41373006,136148.47021976,7,76,0776DIX,On south side of Dix St NE,"Across from 3915c Dix St; near Safeway and intersection of Minnesota Ave & Benning Rd",Adjacent to 3915c Dix Street NE,1,Hertz
+-76.937508252044154,38.890088671472775,19,405408.74637093,135805.14270744,7,77,0777CENT,On north side of Central Ave NE at 46th St (4500 block),"Next to Benning Rd Metro station; near intersection with Benning Rd and E. Capitol St",Middle of 4500 Block of Central Avenue NE,1,Zipcar
+-76.937657863583624,38.890080517195422,20,405408.74637093,135805.14270744,7,78,0778CENT,On north side of Central Ave NE at 46th St (4500 block),"Next to Benning Rd Metro station; near intersection with Benning Rd and E. Capitol St",Middle of 4500 Block of Central Avenue NE,1,Hertz
+-76.946364953624098,38.898380727410355,21,404644.05668221,136726.42409229,7,79,0779GRAN,On north side of Grant St NE (4000 block),Across from Minnesota Ave Metro station and Northside Medical Services Corp,4000 Block Grant Street NE,1,Hertz
+-76.94646590120135,38.898384130453906,22,404644.05668221,136726.42409229,7,80,0780GRAN,On north side of Grant St NE (4000 block),Across from Minnesota Ave Metro station and Northside Medical Services Corp,4000 Block Grant Street NE,1,Zipcar
+-77.046652181083445,38.901079105872107,23,395953.33038333,137025.26042857,2,17,021721ST,On 21st St b/t I St and Pennsylvania Ave,Across from TGI Fridays,935 21st Street NW,1,Hertz
+-77.046653825542535,38.901135633235405,24,395953.33038333,137031.53550879,2,18,021821ST,On 21st St b/t  I St and Pennsylvania Ave,Across from TGI Fridays,935 21st Street NW,1,Hertz
+-77.031952399030089,38.911240012655135,25,397228.79680743,138143.63152252,2,19,021914TH,On 14th St b/t Q St and Corcoran St,Side of 1601 14th St,1601 14th Street NW,1,Hertz
+-77.031954254254103,38.911158729872419,26,397228.79680743,138143.63152252,2,20,022014TH,On 14th St b/t Q St and Corcoran St,Side of 1601 14th St,1601 14th Street NW,1,Hertz
+-77.037657673140075,38.907183268575629,27,396733.54319492,137702.5114132,2,21,0221BATN,On Bataan St b/t Massachusetts Ave and Rhode Island Ave (south end),"Next to park, on Western end of Scott Circle",1252 Bataan Street NW,1,Zipcar
+-77.037657755538405,38.907339330317861,28,396733.54319492,137710.45164125,2,22,0222BATN,On Bataan St b/t Massachusetts Ave and Rhode Island Ave (north end),"Next to park, on Western end of Scott Circle",1252 Bataan Street NW,1,Zipcar
+-77.037657652049887,38.907143323871956,29,396733.54319492,137698.0772692,2,23,0223BATN,On Bataan St b/t Massachusetts Ave and Rhode Island Ave (south end),"Next to park, on Western end of Scott Circle",1252 Bataan Street NW,1,Zipcar
+-77.037657787418667,38.907399711019458,30,396733.54319492,137710.45164125,2,24,0224BATN,On Bataan St b/t Massachusetts Ave and Rhode Island Ave (north end),"Next to park, on Western end of Scott Circle",1252 Bataan Street NW,1,Zipcar
+-77.066158002220803,38.903524473534034,31,394261.68248058,137295.38253344,2,25,0225WATR,"On Water St, near intersection of 33rd St",Across from 3301 Water St,Across from 3302 Water St NW (parkland),1,Zipcar
+-77.066063955954576,38.903503098124943,32,394269.83832004,137295.38253344,2,26,0226WATR,On Water St near intersection of 33rd St,Across 3301 Water St,Across from 3302 Water St NW (parkland),1,Zipcar
+-77.0278432626002,38.898321282693495,33,397584.90957967,136718.68514008,2,27,0227GST,On north side of G St and 11th St,Near Cosi & Metro Center Metro,1170 G Street NW,1,Zipcar
+-77.027768752677076,38.898323379672725,34,397591.37307805,136718.68514008,2,28,0228GST,On north side of G St and 11th St,Near Cosi & Metro Center Metro,1170 G Street NW,1,Hertz
+-77.031947301271018,38.907259937136054,35,397228.76088203,137710.83343721,2,29,022914TH,"On 14th St, near intersection with N St","In front of 1301 14th St, Eden House",1301 14th Street NW,1,Hertz
+-77.031952937576619,38.907295066466801,36,397228.76088203,137714.73324504,2,30,023014TH,On 14th St near intersection with N St,"In front of 1301 14th St, Eden House",1301 14th Street NW,1,Hertz
+-77.031822777106413,38.896121720192646,37,397222.93560331,136474.39827273,2,31,0231PENN,On Pennsylvania at 14th St,In front of Willard Hotel,1401 Pennsylvania Avenue NW,1,Zipcar
+-77.032015083593691,38.896121667643861,38,397222.93560331,136474.39827273,2,32,0232PENN,On Pennsylvania Ave at 14th St,In front of Willard Hotel,1401 Pennsylvania Avenue NW,1,Zipcar
+-77.018948135173517,38.897281670929665,39,398355.46070838,136602.85136418,2,61,0661FST,On F St at 5th St NW,Next to Metro building,500 Block of F Street NW,1,Zipcar
+-77.018960147855253,38.897344161133141,40,398355.46070838,136609.78851619,2,62,0662FST,On F St at 5th St NW,Next to Metro building,500 Block of F Street NW,1,Zipcar
+-77.022967516581829,38.894930224322287,41,398007.96507257,136335.12508783,2,69,06918TH,On 8th St at D St NW,In front of Zipcars office,403 8th Street NW,1,Zipcar
+-77.02296519937677,38.894869173373642,42,398007.96507257,136335.12508783,2,70,06708TH,On 8th St at D St NW,In front of Zipcars office,403 8th Street NW,1,Zipcar
+-77.032036755769468,38.917033488037283,43,397221.87033133,138796.3919018,1,1,010114TH,On 14th St at U St NW,Beside Reeves Center,2000 14th Street NW,1,Hertz
+-77.031953019051542,38.917039016183864,44,397229.13242879,138796.3919018,1,2,010214TH,On 14th at U St NW,Beside Reeves Center,2000 14th Street NW,1,Hertz
+-77.04140149863305,38.923303143094714,45,396410.04622132,139492.09177303,1,3,0103CHMP,On Champlain St b/t Columbia Rd and Euclid St,In front of City Bikes (2503 Champlain St),2502 Champlain Street NW,1,Hertz
+-77.041680059146813,38.918315632213755,46,396385.37500255,138938.44711035,1,4,010418TH,"On 18th St, at Wyoming Ave (2100 18th St NW)","In front of Marie Reed, near tennis courts",2156 18th Street NW,1,Hertz
+-77.041683111160225,38.918351149848917,47,396385.37500255,138942.38999906,1,5,010518TH,"On 18th St, at Wyoming Ave (2100 18th St NW)","In front of Marie Reed, near tennis courts",2156 18th Street NW,1,Hertz
+-77.040863348042834,38.920180257557426,48,396456.55699178,139145.40414358,1,6,0106CHMP,On Champlain St at Kalorama Rd,"Across from 2203 Champlain St; behind Marie Reed School",2294 Champlain Street NW,1,Zipcar
+-77.043579027217064,38.917825903551815,49,396220.93046307,138884.16008342,1,7,0107CALI,On California St at 19th St (north side),Across from 1875 California St,1875 California Street NW,1,Zipcar
+-77.04174710121849,38.919810055879758,50,396379.89974655,139095.6037602,1,8,010818TH,2300 18th St NW (east side),In front of San Marco restaurant & dentist office,2305 18th Street NW,1,Zipcar
+-77.0452163336887,38.918379530310169,51,396078.97010091,138945.6863267,1,10,0110CLMB,1930 Columbia Rd,In front of Gelmarc Towers,1930 Columbia Road NW,1,Zipcar
+-77.0417230604818,38.919731335613733,52,396381.98058962,139095.6037602,1,9,010918TH,2305 18th St NW (east side),In front of San Marco restaurant & dentist office,2305 18th Street NW,1,Hertz
+-77.038570738493235,38.931812876236798,53,396654.25567313,140436.63728774,1,11,0111MTPL,3251 Mt Pleasant St,In front of Habitat Real Estate,3251 Mt Pleasant Street NW,1,Zipcar
+-77.038589915035516,38.931861195539483,54,396654.25567313,140442.00186096,1,12,0112MTPL,3251 Mt Pleasant St,In front of Habitat Real Estate,3251 Mt Pleasant Street NW,1,Zipcar
+-77.03675278688263,38.927240997642699,55,396811.88331707,139929.05452727,1,13,0113MTPL,3010 Mt Pleasant St,In front of Embassy Apts.,3010 Mt Pleasant Street NW,1,Zipcar
+-77.036769580417229,38.927284146134845,56,396811.88331707,139933.84490833,1,14,0114MTPL,In front of 3010 Mt Pleasant St,In front of Embassy Apts.,3010 Mt Pleasant Street NW,1,Zipcar
+-77.031901590249319,38.921378995584391,57,397233.05780004,139278.16439066,1,15,011514TH,2400 block of 14th St. (west side),2 spaces closest to Chapin St and the fire hydrant,2460 14th Street NW,1,Hertz
+-77.031909725590538,38.921441274674685,58,397233.05780004,139285.07810918,1,16,011614TH,2400 block of 14th St (west side),2 spaces closest to Chapin St and the fire hydrant,2460 14th Street NW,1,Hertz
+-76.993696885469447,38.932413914766713,59,400546.70609441,140502.67008452,5,53,0553MONR,On Monroe St NE at 9th St,"Near CUA/Brookland Metro, across from Brooks Mansion",901 Monroe Street Ne,1,Hertz
+-76.993661058292602,38.932413912829752,60,400549.81252258,140502.67008452,5,54,0554MONR,On Monroe St NE b/t 9th St & 10th St,"Near CUA/Brookland Metro, across from Brooks Mansion",901 Monroe Street NE,1,Hertz
+-76.980936751013417,38.901235083877971,61,401653.78899944,137037.26695922,5,55,0555MARY,"On Maryland Ave b/t 17th St and Neal Rd, next to fire hydrant",Next to Hechinger Mall,1601 Maryland Avenue NE,1,Hertz
+-76.980824535021512,38.901195007033756,62,401663.52381712,137037.26695922,5,56,0556MARY,"On Maryland Ave b/t 17th St and Neal Rd; next to fire hydrant",Next to Hechinger Mall,1601 Maryland Avenue NE,1,Hertz
+-77.004705593641646,38.910583780446117,63,399584.70429352,138079.89999755,5,57,0557HARR,On Harry Thomas Way at Eckington Pl,Near Sirius XM radio,1500 Block of Harry Thomas Way NE,1,Zipcar
+-77.004790604701213,38.910588886409613,64,399584.70429352,138079.89999755,5,58,0558HARR,On Harry Thomas Way at Eckington Pl,Near Sirius XM radio,1500 Block of Harry Thomas Way NE,1,Zipcar
+-77.058246407167985,38.935547817389754,65,394944.07694699,140852.15281612,3,33,0333ORDW,On Ordway St at Connecticut Ave (NE corner),Across from California Tortilla,2797 Ordway Street NW,1,Hertz
+-77.058690081561494,38.935584068935917,66,394911.73460919,140855.56837554,3,34,0334ORDW,On Ordway St at Connecticut Ave (NW corner),Across from Alero,2803 Ordway Street NW,1,Hertz
+-77.058304850932345,38.935557296513615,67,394944.07694699,140853.20832061,3,35,0335ORDW,On Ordway St at Connecticut Ave (NE corner),Across from California Tortilla,2797 Ordway Street NW,1,Zipcar
+-77.058626769800213,38.935576493761616,68,394917.22322519,140855.56837554,3,36,0336ORDW,On Ordway St at Connecticut Ave (NW corner),Across from Alero,2803 Ordway Street NW,1,Zipcar
+-77.079293075601868,38.949687765894559,69,393126.80365553,142423.18660179,3,37,0337BRAN,Brandywine St & Wisconsin Ave (NE corner),Across Crivella Investment at 4027 Brandywine & Supercuts,4027 Brandywine Street NW,1,Hertz
+-77.078518182354472,38.948105655481328,70,393193.66706751,142238.92828298,3,39,0339FDRI,On 40th St & Albemarle St,Behind Hollywood video,4505 Fort Drive NW,1,Zipcar
+-77.079207557555918,38.949687823868388,71,393134.21664497,142423.18660179,3,38,0338BRAN,Brandywine St & Wisconsin Ave (NE corner),Across Crivella Investment at 4027 Brandywine & Supercuts,4027 Brandywine Street NW,1,Hertz
+-77.078519895468503,38.948028437018714,72,393193.66706751,142238.92828298,3,40,0340FDRI,On 40th St & Albemarle St,Behind Hollywood video,4505 Fort Drive NW,1,Zipcar
+-77.063141186987238,38.943165540815428,73,394526.40345683,141697.69098515,3,41,0341VNES,On Van Ness St at Connecticut Ave (NW corner),Next to UDC,3106 Van Ness Street NW,1,Hertz
+-77.071324867764659,38.945531366109321,74,393817.15441617,141961.7517752,3,43,0343WIND,On Windom Pl at Connecticut Ave (NW corner),Next to Blockbuster,3636 Windom Place NW,1,Hertz
+-77.063055400501,38.943162180863325,75,394533.84013614,141697.69098515,3,42,0342VNES,On Van Ness St at Connecticut Ave (NW corner),Next to UDC,3106 Van Ness Street NW,1,Hertz
+-77.071248087581878,38.945536209844668,76,393823.81080393,141961.7517752,3,44,0344WIND,On Windom Pl at Connecticut Ave (NW corner),Next to Blockbuster,3636 Windom Place NW,1,Hertz
+-77.01803625203901,38.974267090401717,77,398437.46084461,145148.88918011,4,45,04454TH,4th Street at Blair Road,"Across from DC Floors, 6918 Blair; near Takoma Metro",6919 4th Street NW,1,Hertz
+-77.018034330219677,38.974316904537723,78,398437.46084461,145154.41897949,4,46,04464TH,On 4th at Blair Rd,"Across DC Floors at 6918 Blair; near Takoma Metro",6919 4th Street NW,1,Zipcar
+-77.02379630888467,38.94192274738684,79,397937.22796623,141558.48380633,4,47,0447UPSH,"On Upshur, near intersection with 9th St","In front of 825 and 829 Upshur; near Georgia Ave Metro",825 Upshur Street NW,1,Zipcar
+-77.023862322167503,38.941920788137793,80,397931.50498104,141558.26781187,4,48,0448UPSH,"On Upshur St, near intersection with 9th St","In front of 825 and 829 Upshur St; near Georgia Ave Metro",829 Upshur Street NW,1,Hertz
+-77.014157001729657,38.974165201926432,81,398773.44224466,145137.51933258,4,49,0449WILW,On 6900 block Willow St NW (west side),Next to fire hydrant,Approximately 6920 Willow Street NW,1,Hertz
+-77.014282207799781,38.973988990723164,82,398762.58965525,145117.95988176,4,50,0450WILW,On 6900 block of Willow St NW (west side),Next to fire hydrant,Approximately 6918 Willow Street NW,1,Hertz
+-77.022498963654812,38.956379009036176,83,398050.09407718,143163.23057954,4,51,0451KENN,700 block of Kennedy St NW,In front of Tienda Latina,708 Kennedy Street NW,1,

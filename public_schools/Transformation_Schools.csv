@@ -1,0 +1,16 @@
+﻿X,Y,OBJECTID,NAME,ADDRESS,FACUSE,BLDG_NUM,WEB_URL,LEVEL_,STATUS,HIST,GIS_ID
+-76.978794136053281,38.936991216156194,1,Taft Junior High School,1800 Perry Street NE,Special Education,429,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=473,SE,Swing,H,Dcps_429
+-77.012465740252978,38.904398206007826,2,Terrell Junior High School,"1000 1st Street, N.W.",Junior High School,430,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=430,JHS,Active,,Dcps_430
+-76.920866991815004,38.890410841612436,3,Evans Middle School,"5600 East Capitol Street, N.E",Middle School,408,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=408,MS,Active,,Dcps_408
+-76.980197331979767,38.871474781748219,4,Kramer Middle School,"1700 Q Street, S.E.",Middle School,417,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=417,MS,Active,H,Dcps_417
+-76.988849943257108,38.856211310062804,5,Douglas Special Education School,"2600 Douglass Road, S.E.",NOT USED,406, ,Swing,Swing,,Dcps_406
+-76.999679163190507,38.959857141693377,6,LaSalle Elementary School,"501 Riggs Road, N.E.",Elementary School,264,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=264,ES,Active,,Dcps_264
+-76.991930426840796,38.925116982191405,7,Noyes Elementary School,"2725 10th Street, N.E.",Elementary School,290,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=290,ES,Active,H,Dcps_290
+-77.038852086164582,38.924017065509695,8,"Cooke, H.D. Elementary School","2525 17th Street, N.W.",Elementary School,227,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=227,ES,Active,H,Dcps_227
+-77.012321797785759,38.904174435764176,9,Walker-Jones Elementary School,"100 L Street, N.W.",Elementary School,332,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=332,ES,Active,H,Dcps_332
+-76.937619151292154,38.879235806928882,10,Davis Elementary School,"4430 H Street, S.E.",Elementary School,229,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=229,ES,Active,H,Dcps_229
+-76.96862593160526,38.86012760784655,11,Stanton Elementary School,"2701 Naylor Road, S.E.",Elementary School,319,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=319,ES,Active,H,Dcps_319
+-76.985484081729467,38.856721168512031,12,Wilkinson Elementary School,"2330 Pomeroy Road, S.E.",Elementary School,354,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=354,ES,Active,,Dcps_354
+-76.980369181120238,38.848272122000544,13,Turner Elementary School,"3264 Stanton Road, S.E.",Elementary School,329,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=329,ES,Active,H,Dcps_329
+-77.000063951979314,38.835945763692209,14,Simon Elementary School,"401 Mississippi Avenue, S.E.",Elementary School,315,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=315,ES,Active,H,Dcps_315
+-76.972205735580928,38.902011225068719,15,Phelps Senior High School,"704 26th Street, N.E.",Senior High School,478,http://www.k12.dc.us/dcps/schools/results1.cfm?school_id=478,SHS,Active,H,Dcps_478

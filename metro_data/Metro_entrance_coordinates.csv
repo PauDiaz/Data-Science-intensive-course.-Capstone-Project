@@ -1,0 +1,89 @@
+,NAME,LINE,Latitude,Longitude,Text
+0,Dupont Circle,red,38.908682886128524,-77.0433192930102,Dupont Circle. Line: red
+1,Friendship Heights,red,38.96045308384319,-77.08576532932788,Friendship Heights. Line: red
+2,Brookland | CUA,red,38.93383431859873,-76.9950446605249,Brookland | CUA. Line: red
+3,Deanwood,orange,38.908267505942156,-76.93472261926458,Deanwood. Line: orange
+4,Deanwood,orange,38.90856083402741,-76.93517247722124,Deanwood. Line: orange
+5,Shaw | Howard Univ,"green,yellow",38.912781330065634,-77.02259808533381,"Shaw | Howard Univ. Line: green,yellow"
+6,NoMa-Gallaudet U,red,38.907286966243355,-77.00343046951987,NoMa-Gallaudet U. Line: red
+7,Takoma,red,38.97510394849189,-77.01741556732136,Takoma. Line: red
+8,Fort Totten,"red, green, yellow",38.952653872494786,-77.00249101483854,"Fort Totten. Line: red, green, yellow"
+9,Tenleytown | AU,red,38.948079369698476,-77.07946249333997,Tenleytown | AU. Line: red
+10,Cleveland Park ,red,38.93598468446747,-77.05853742560035,Cleveland Park . Line: red
+11,Brookland | CUA,red,38.93363033996762,-76.99436828480718,Brookland | CUA. Line: red
+12,Woodley Park Zoo | Adams Morgan,red,38.92451004268722,-77.05238323295886,Woodley Park Zoo | Adams Morgan. Line: red
+13,Rhode Island Ave,red,38.920478494095256,-76.99607468280837,Rhode Island Ave. Line: red
+14,U St | African Amer Civil | War Mem | Cardozo,"green,yellow",38.916794069590004,-77.02596435330453,"U St | African Amer Civil | War Mem | Cardozo. Line: green,yellow"
+15,Shaw | Howard Univ,"green,yellow",38.91450592441822,-77.02168415621341,"Shaw | Howard Univ. Line: green,yellow"
+16,Dupont Circle,red,38.91094578030688,-77.0446176963749,Dupont Circle. Line: red
+17,Farragut North,red,38.90393045573093,-77.03983384643445,Farragut North. Line: red
+18,Mt Vernon Sq | 7th St | Convention Cen,"green, yellow",38.905436073822734,-77.02214996332985,"Mt Vernon Sq | 7th St | Convention Cen. Line: green, yellow"
+19,McPherson Sq,"blue, orange",38.9008825976873,-77.03213428065942,"McPherson Sq. Line: blue, orange"
+20,Farragut West,"blue, orange",38.90148103754585,-77.04194688589004,"Farragut West. Line: blue, orange"
+21,Farragut West,"blue, orange",38.90125241896188,-77.03934468810081,"Farragut West. Line: blue, orange"
+22,Foggy Bottom | GWU,"blue, orange",38.90090289011515,-77.05046474599573,"Foggy Bottom | GWU. Line: blue, orange"
+23,Minnesota Ave,orange,38.89876264736359,-76.94675067210171,Minnesota Ave. Line: orange
+24,Metro Center,"red, blue, orange",38.89816380152384,-77.02681716120378,"Metro Center. Line: red, blue, orange"
+25,Union Station,red,38.89749219270462,-77.00720207409026,Union Station. Line: red
+26,Judiciary Sq,red,38.8953218177763,-77.01598703167309,Judiciary Sq. Line: red
+27,Federal Triangle,"blue, orange",38.89381031418881,-77.02865800846726,"Federal Triangle. Line: blue, orange"
+28,Archives | Navy Mem,"green,yellow",38.893944169453675,-77.02243965890018,"Archives | Navy Mem. Line: green,yellow"
+29,LEnfant Plaza,"green, yellow, orange, blue",38.88625489894074,-77.02157749484334,"LEnfant Plaza. Line: green, yellow, orange, blue"
+30,Smithsonian,"blue, orange",38.8872548692051,-77.0284566299955,"Smithsonian. Line: blue, orange"
+31,Stadium | Armory,"blue, orange",38.885663092807725,-76.97704578066458,"Stadium | Armory. Line: blue, orange"
+32,Capitol South,"blue, orange",38.885569792133786,-77.00605462314321,"Capitol South. Line: blue, orange"
+33,Eastern Market,"blue, orange",38.884252866505854,-76.99581529598758,"Eastern Market. Line: blue, orange"
+34,Potomac Ave,"blue, orange",38.880846532637854,-76.9851736901697,"Potomac Ave. Line: blue, orange"
+35,Navy Yard-Ballpark,green,38.876676752608475,-77.00449748290545,Navy Yard-Ballpark. Line: green
+36,Waterfront,green,38.876962022232696,-77.01755756424134,Waterfront. Line: green
+37,Friendship Heights Elevator,red,38.95890221296607,-77.08500575749756,Friendship Heights Elevator. Line: red
+38,Gallery Pl | Chinatown Elevator,"red, green, yellow",38.897845473117094,-77.02174915556337,"Gallery Pl | Chinatown Elevator. Line: red, green, yellow"
+39,Judiciary Sq NE Elevator,red,38.896829713881566,-77.01745250069084,Judiciary Sq NE Elevator. Line: red
+40,Judiciary Sq SW Elevator,red,38.89665370254038,-77.01765654106146,Judiciary Sq SW Elevator. Line: red
+41,LEnfant Plaza Elevator,"green, yellow, orange, blue",38.88598539823089,-77.02210001201459,"LEnfant Plaza Elevator. Line: green, yellow, orange, blue"
+42,Potomac Ave Elevator,"blue, orange",38.881071083750975,-76.98510797544755,"Potomac Ave Elevator. Line: blue, orange"
+43,Smithsonian Elevator,"blue, orange",38.88775696349028,-77.02853590156222,"Smithsonian Elevator. Line: blue, orange"
+44,Stadium | Armory Elevator,"blue, orange",38.885928715526035,-76.9771541065979,"Stadium | Armory Elevator. Line: blue, orange"
+45,Takoma Elevator,red,38.97588890922871,-77.01782397456219,Takoma Elevator. Line: red
+46,Van Ness | UDC Elevator,red,38.94397019140653,-77.06358098758871,Van Ness | UDC Elevator. Line: red
+47,Woodley Park Zoo | Adams Morgan Elevator,red,38.925457070912685,-77.05287622219291,Woodley Park Zoo | Adams Morgan Elevator. Line: red
+48,Anacostia,green,38.86229836032468,-76.99507006608322,Anacostia. Line: green
+49,Union Station,red,38.89839952244897,-77.00722876066969,Union Station. Line: red
+50,Judiciary Sq,red,38.897059761435045,-77.01752527671904,Judiciary Sq. Line: red
+51,Columbia Heights,"green,yellow",38.92887625491144,-77.03242969434685,"Columbia Heights. Line: green,yellow"
+52,LEnfant Plaza,"green, yellow, orange, blue",38.88425315617953,-77.02348544507521,"LEnfant Plaza. Line: green, yellow, orange, blue"
+53,Stadium | Armory,"blue, orange",38.88829077840236,-76.97706518705444,"Stadium | Armory. Line: blue, orange"
+54,Friendship Heights,red,38.96074804878105,-77.08540212252136,Friendship Heights. Line: red
+55,Minnesota Ave,orange,38.89931071497973,-76.9471248450939,Minnesota Ave. Line: orange
+56,Tenleytown | AU,red,38.94828420567076,-77.08008785794931,Tenleytown | AU. Line: red
+57,Gallery Pl | Chinatown,"red, green, yellow",38.89754423952447,-77.02156742235327,"Gallery Pl | Chinatown. Line: red, green, yellow"
+58,Benning Road,"blue, orange",38.89040523258587,-76.93744925730928,"Benning Road. Line: blue, orange"
+59,Congress Heights,green,38.84465466779095,-76.98762043135346,Congress Heights. Line: green
+60,Federal Center SW,"blue, orange",38.88500213454658,-77.01596219124596,"Federal Center SW. Line: blue, orange"
+61,U St | African Amer Civil | War Mem | Cardozo,"green,yellow",38.91683080842021,-77.02912399918566,"U St | African Amer Civil | War Mem | Cardozo. Line: green,yellow"
+62,LEnfant Plaza,"green, yellow, orange, blue",38.88468934188415,-77.02082804537373,"LEnfant Plaza. Line: green, yellow, orange, blue"
+63,Navy Yard-Ballpark,green,38.87627831501453,-77.00713328701106,Navy Yard-Ballpark. Line: green
+64,Anacostia,green,38.864435982096225,-76.99602289429323,Anacostia. Line: green
+65,Congress Heights,green,38.84539767386204,-76.98777759963761,Congress Heights. Line: green
+66,Smithsonian,"blue, orange",38.8890782780168,-77.02843743965212,"Smithsonian. Line: blue, orange"
+67,McPherson Sq,"blue, orange",38.90116213907105,-77.03485715721465,"McPherson Sq. Line: blue, orange"
+68,Anacostia,green,38.862169452951754,-76.9954664534225,Anacostia. Line: green
+69,NoMa-Gallaudet U,red,38.90571764135272,-77.00382852691355,NoMa-Gallaudet U. Line: red
+70,Archives | Navy Mem Elevator,"green,yellow",38.89387722566533,-77.02208100412548,"Archives | Navy Mem Elevator. Line: green,yellow"
+71,Capitol South Elevator,"blue, orange",38.885180683476186,-77.00607577525501,"Capitol South Elevator. Line: blue, orange"
+72,Cleveland Park Elevator,red,38.93577698125142,-77.05843711342735,Cleveland Park Elevator. Line: red
+73,Eastern Market Elevator,"blue, orange",38.884261123217705,-76.99604045200125,"Eastern Market Elevator. Line: blue, orange"
+74,Federal Triangle Elevator,"blue, orange",38.89377740110807,-77.02831581708782,"Federal Triangle Elevator. Line: blue, orange"
+75,Gallery Pl | Chinatown,"red, green, yellow",38.89816591845484,-77.02378099001487,"Gallery Pl | Chinatown. Line: red, green, yellow"
+76,Gallery Pl | Chinatown,"red, green, yellow",38.89964005483733,-77.02165568143434,"Gallery Pl | Chinatown. Line: red, green, yellow"
+77,Metro Center,"red, blue, orange",38.89852655038362,-77.02789388201091,"Metro Center. Line: red, blue, orange"
+78,Metro Center,"red, blue, orange",38.8981411324014,-77.02945222204883,"Metro Center. Line: red, blue, orange"
+79,Metro Center,"red, blue, orange",38.897127651608415,-77.02837555152148,"Metro Center. Line: red, blue, orange"
+80,Farragut North,red,38.90358984748549,-77.04013022246181,Farragut North. Line: red
+81,Farragut North,red,38.902781481058796,-77.03917955362084,Farragut North. Line: red
+82,Cleveland Park,red,38.936145516843816,-77.05900688935203,Cleveland Park. Line: red
+83,Van Ness | UDC,red,38.944555526517284,-77.06352577346529,Van Ness | UDC. Line: red
+84,Van Ness | UDC,red,38.94447617727841,-77.06399596600627,Van Ness | UDC. Line: red
+85,Georgia Ave | Petworth,"green,yellow",38.937128794450494,-77.02471477373291,"Georgia Ave | Petworth. Line: green,yellow"
+86,Georgia Ave | Petworth,"green,yellow",38.93695142877452,-77.02416080678388,"Georgia Ave | Petworth. Line: green,yellow"
+87,Columbia Heights,"green,yellow",38.928618916879046,-77.03303204043281,"Columbia Heights. Line: green,yellow"
